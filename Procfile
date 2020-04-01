@@ -1,1 +1,0 @@
-web: gunicorn dnd_api:app -t 120
